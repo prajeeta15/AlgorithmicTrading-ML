@@ -4,7 +4,7 @@ Machine Learning &amp; Quant Strategies
 # unsupervised learning: 
 in trading involves using ML techniques to analyze financial data and discover patterns, relationships, and structures within the data without any labeled or predefined target variable. it focuses on extracting insights from data
 
-#how is unsupervised learning applied in trading:
+# how is unsupervised learning applied in trading:
 - clustering
 - dimensionality reduction
 - anomaly detection
