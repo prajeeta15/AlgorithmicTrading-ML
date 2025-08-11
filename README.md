@@ -27,5 +27,4 @@ condition when a stock which have actually went out of SP500 list becuase it was
 
 # later:
 
-### - Twitter Sentiment Investing Strategy, ranking NASDAQ stocks based on engagement and evaluating performance against the QQQ return
 ### - Intraday Strategy with GARCH model combining with technical indicators to capture both daily and intraday signals for potential lucrative positions
